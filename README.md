@@ -1,6 +1,6 @@
-# Slooze Take Home Challenge: Inventory, Purchase, and Sales Analysis and Optimization
+ Inventory, Purchase, and Sales Analysis and Optimization
 
-This repository contains the code and analysis for the Slooze Data Science & Analytics take-home challenge. The goal was to leverage transactional data to optimize inventory control and extract valuable business insights related to purchase and sales performance.
+This repository contains the code and analysis for project .The goal was to leverage transactional data to optimize inventory control and extract valuable business insights related to purchase and sales performance.
 
 ## Analysis Performed
 
